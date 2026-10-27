@@ -1,12 +1,12 @@
-# Hi there, I'm Yoshiyuki Fugie! 👋
+# Hi there, I'm Yoshiyuki Fugie
 
 I am a Computer Scientist and currently a Master's student in Computer Science at Universidade Estadual de Maringá (UEM). My background bridges academic research focused on Artificial Intelligence and the practical application of data and automation in the corporate market.
 
-### 🔭 What I'm currently working on:
+### What I'm currently working on:
 *   **Research (Master's):** Exploring Computer Vision for unsupervised segmentation of biological images (rat intestine microscopy). I am utilizing the **DINOv3** foundation model**.
 *   **Industry:** Working as a Policy Implementation Analyst at Crefaz, translating complex business rules into system automations via a decision engine and analyzing credit performance.
 
-### 🚀 Highlights and Interests:
+### Highlights and Interests:
 *   **Financial Optimization:** Developed models using Deep Reinforcement Learning (DDPG) and evolutionary algorithms (NSGA-II) for multi-objective portfolio optimization.
 *   **Full Stack Development:** Experience building applications and diagnostic systems integrating Next.js (Frontend), Django (Backend), and MySQL.
 
